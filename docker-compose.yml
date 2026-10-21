@@ -7,7 +7,7 @@ services:
     environment:
       POSTGRES_DB: visioninspect
       POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: manasa123
+      POSTGRES_PASSWORD: rahul123
     volumes:
       - postgres_data:/var/lib/postgresql/data
     healthcheck:
