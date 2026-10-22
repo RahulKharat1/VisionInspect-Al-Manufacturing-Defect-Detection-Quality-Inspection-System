@@ -1,0 +1,18 @@
+fastapi
+reportlab
+uvicorn
+python-multipart
+flask
+flask-cors
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.13.0+cpu
+torchvision==0.28.0+cpu
+Pillow
+numpy
+opencv-python-headless
+python-dotenv
+SQLAlchemy
+python-jose[cryptography]
+passlib[bcrypt]
+bcrypt==4.0.1
+psycopg2-binary
